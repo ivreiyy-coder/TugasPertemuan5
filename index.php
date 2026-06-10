@@ -22,9 +22,9 @@
             <button>Submit</button>
         </div>
     </form>
-a
-<?php 
 
+<?php 
+tes
 $nama = @$_GET['nama'];
 $alamat = @$_GET['alamat']; 
 
