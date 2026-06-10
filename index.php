@@ -30,7 +30,7 @@ $alamat = @$_GET['alamat'];
 
 if ($nama) {
     echo "<strong>Nama:</strong> {$nama} <br>";
-}a
+}
 
 if ($alamat) {
     echo "<strong>Alamat:</strong> {$alamat} <br>";
