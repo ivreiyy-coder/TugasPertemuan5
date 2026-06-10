@@ -24,10 +24,10 @@
     </form>
 
 <?php 
-tes
+
 $nama = @$_GET['nama'];
 $alamat = @$_GET['alamat']; 
-
+haaha
 if ($nama) {
     echo "<strong>Nama:</strong> {$nama} <br>";
 }
